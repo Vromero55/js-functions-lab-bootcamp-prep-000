@@ -7,6 +7,8 @@ function happyHolidaysTo(Broly){
 function happyCustomHolidayTo(Birthday, Broly){
   return `Happy ${Birthday}, ${Broly}!`;
 }
-function holidayCountdown(){
-  return `It's ${80} days until ${GroundHog day}!`;
+function holidayCountdown(holiday, days){
+  holiday="Mother's Day"
+  days='80'
+  return `It's ${days} days until ${holiday}!`;
   }// write your code below!
