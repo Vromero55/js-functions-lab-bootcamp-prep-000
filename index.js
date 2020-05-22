@@ -1,11 +1,11 @@
 function happyHolidays(){
   return "Happy holidays!";
 }
-function happyHolidaysTo(name){
+function happyHolidaysTo(Broly){
    
-  return `Happy holidays, ${name}!`;
+  return `Happy holidays, ${Broly}!`;
 }
-function happyCustomHolidaysTo(holiday, name){
+function happyCustomHolidaysTo(ThanksGiving, Broly){
   
   return `Happy ${holiday}, ${name}!`;
 }
