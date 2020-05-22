@@ -9,8 +9,8 @@ function happyCustomHolidayTo(Birthday, Broly){
   
   return `Happy ${Birthday}, ${Broly}!`;
 }
-function holidayCountdown(holiday, days){
+function holidayCountdown(Holiday, days){
   days=20;
-  holiday="Father's day"
+  Holiday="Father's day"
   return `It's ${days} days until ${Holiday}!`;
   }// write your code below!
