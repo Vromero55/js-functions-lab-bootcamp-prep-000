@@ -7,6 +7,6 @@ function happyHolidaysTo(Broly){
 }
 function happyCustomHolidaysTo(ThanksGiving, Broly){
   
-  return `Happy ${holiday}, ${name}!`;
+  return `Happy ${ThanksGiving}, ${Broly}!`;
 }
 // write your code below!
